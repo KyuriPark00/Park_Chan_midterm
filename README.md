@@ -32,4 +32,3 @@ Chan Wing Lam Stephanie and Kyuri Park
 ## Liscences
 MIT
 
-I hate sandwiches.
