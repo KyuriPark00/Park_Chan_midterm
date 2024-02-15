@@ -17,7 +17,7 @@ TDDO: This is a page for compare the e-books or traditional books.
 
 ## Contributing
 
-Chan Wing Lam Stephanie 
+Chan Wing Lam Stephanie and Kyuri Park
 
 1. Fork it!
 2. Create your feature branch: git checkout -b my-new-feature
@@ -27,9 +27,8 @@ Chan Wing Lam Stephanie
 
 ## credits
 
-Chan Wing Lam Stephanie 
+Chan Wing Lam Stephanie and Kyuri Park
 
 ## Liscences
 MIT
 
-conflict is here again
